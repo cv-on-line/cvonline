@@ -1,0 +1,21 @@
+
+<style>
+
+
+<!--
+a {color:blue;text-decoration:none;}
+a:link {color:blue;text-decoration:none;}
+a:visited {color:blue;text-decoration:none;}
+a:hover {text-decoration:underline;}
+a:active {text-decoration:underline;}
+-->
+
+Body {background-color:none;color:black;font-weight:normal;font-family:Helvetica,Arial;}
+
+#Links {text-decoration:none;color:blue;line-height:1.5;Vertical-align:Top;Text-Align:Center;font-size:medium;}
+
+#Titre2 {line-height:1.7;color:darkgray;Text-Align:Right;Vertical-align:Top;font-size:medium;}
+
+#Texte2 {line-height:1.7;Text-Align:Left;Vertical-align:Top;font-size:medium;}
+
+</style>
